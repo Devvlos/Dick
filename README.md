@@ -1,5 +1,5 @@
-<h1 align="center">ToDo</h1>
-<h3 align="center">It list everything that you have to do, with the most important tasks at the top of the list, and the least important tasks at the bottom. By keeping such a list, you make sure that your tasks are written down all in one place so you don't forget anything important.</h3>
+<h1 align="center">Dick</h1>
+<h3 align="center">This Is a DICK Made In HTML CSS And JAVASCRIPT For Fun Purpose</h3>
 
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Devvlos/ToDo)

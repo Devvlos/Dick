@@ -5,7 +5,7 @@
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Devvlos/Dick)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://devvlos.github.io/Dick/)
 [![Author](https://img.shields.io/badge/Author-Adhish%20Gupta-blue.svg)](https://adhishgupta.rf.gd/)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-25%20November%202023-yellow.svg)](https://github.com/Devvlos/Dick)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-20%20December%202023-yellow.svg)](https://github.com/Devvlos/Dick)
 
 
 <p align="center">
